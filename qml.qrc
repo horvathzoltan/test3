@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>styles/Industrial/Button.qml</file>
+    </qresource>
+</RCC>
